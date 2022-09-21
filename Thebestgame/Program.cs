@@ -53,7 +53,7 @@ namespace Thebestgame
             Console.ReadKey(true);
 
             Console.WriteLine("You encounter an enemy!");
-            Console.WriteLine("Enemy strikes you, deplating 25.5% of your shield!");
+            Console.WriteLine("Enemy strikes you, deplating 24.5% of your shield!");
             Console.WriteLine();
 
 
